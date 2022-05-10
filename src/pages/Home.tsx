@@ -20,7 +20,7 @@ export function Home() {
     if (findTask) {
       return Alert.alert(
         'Task já cadastrada',
-        'Você não pode cadastrar uma task com o mesmo nome',
+        'Você não pode cadastrar uma task com o mesmo nome.',
         [
           {
             text: 'Ok'
