@@ -1,8 +1,8 @@
-#App To Do List#
+# App To Do List #
 
-###Nota 10/10.###
+### Nota 10/10. ###
 
-Este foi o primeiro desafio da *Trilha React Native na Rocketseat.*
+Este foi o primeiro desafio da **Trilha React Native na Rocketseat.**
 
 Com base na documentação do projeto, utilizando os testes disponibilizados por eles, desenvolvi toda a logica deste app seguindo a regra de negócio estabelecida por eles.
 
